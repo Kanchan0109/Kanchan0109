@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanchan Lata Srivastva</h1>
 <h3 align="center">Final-year ECE student | AI & VLSI Enthusiast | Intern @ NIELIT</h3>
 
-<img align="right" alt="Coding Girl" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+<img align="right" alt="Coding Girl" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **DGTFET Simulations & AI Projects**  
 - 🌱 I’m currently learning **Silvaco TCAD, AWS, and Automation Tools**  
