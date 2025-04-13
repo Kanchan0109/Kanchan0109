@@ -4,13 +4,11 @@
 <img align="right" alt="Coding Girl" width="300" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 
-- 🔭 I’m currently working on:
-  **Double Gate Tunnel Field-Effect Transistor Simulations & Artificial intelligence Projects**  
- 
-- 📫 How to reach me: **kanchansrivastava109@gmail.com**
+🚀 **I'm Currently Working On**
 
+- **Final Year Project**: Building a Advanced Fingerprint Biometric Voting Machine using Internet of things(IoT).
+- **Device Simulation**: Analysis of Tunneling Field Effect Transistor(TFET) for enhanced performance in Analog and RF domains. 
 - 📄 Know more about me from my: [Resume](https://drive.google.com/file/d/14f7i1qbC5upwIBKHCt9I08T132v348Bf/view?usp=sharing)
-
 
 
 
@@ -58,6 +56,8 @@
 - 🔐 [Password-Based Door Lock System](https://github.com/Kanchan0109/Password-based-Door-Lock-Security-System)  
 - 🚗 [Alcohol Sense Engine Lock System with GPS](https://github.com/Kanchan0109/Alcohol-Sense-Engine-Lock-System-with-GPS-Functionality)  
 - 💤 [Driver Drowsiness Detection using OpenCV](https://github.com/Kanchan0109/OpenCV-Image-Processing-Driver-Drowsiness-Detection)
+
+> “Striving to bridge hardware and software with innovation, learning, and creativity.” 🌟
 
 
 ## 📬 Connect with me:
