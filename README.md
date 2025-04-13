@@ -10,7 +10,6 @@
 - 📫 How to reach me **kanchansrivastava109@gmail.com**  
 - 📄 Know more about me from my [Resume](https://drive.google.com/file/d/1EZH5uabh4l0c3kIqVbVdFXTTHqGCoY28/view)
 
----
 
 ## 🛠️ Languages and Tools:
 <p align="left">
@@ -23,15 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanchan0109&show_icons=true&theme=radical" alt="Kanchan's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanchan0109&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🏆 Projects Showcase:
 
@@ -39,7 +29,6 @@
 - 🚗 [Alcohol Sense Engine Lock System with GPS](https://github.com/Kanchan0109/Alcohol-Sense-Engine-Lock-System-with-GPS-Functionality)  
 - 💤 [Driver Drowsiness Detection using OpenCV](https://github.com/Kanchan0109/OpenCV-Image-Processing-Driver-Drowsiness-Detection)
 
----
 
 ## 📬 Connect with me:
 <p align="left">
@@ -48,12 +37,10 @@
 <a href="https://sites.google.com/view/kanchansrivastava109/home" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="40" width="40" /></a>
 </p>
 
----
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Kanchan0109&theme=react-dark" alt="activity graph" />
 </p>
 
----
 
 > “Striving to bridge hardware and software with innovation, learning, and creativity.” 🌟
