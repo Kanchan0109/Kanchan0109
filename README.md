@@ -59,11 +59,9 @@
 
 
 ## 📬 Connect with me:
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/kanchan-lata-srivastava/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
-  
 <a href="mailto:kanchansrivastava109@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40" /></a>
-
 <a href="https://sites.google.com/view/kanchansrivastava109/home" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="40" width="40" /></a>
 </p>
 
