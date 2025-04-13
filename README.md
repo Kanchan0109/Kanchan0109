@@ -3,12 +3,10 @@
 
 <img align="right" alt="Coding Girl" width="300" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
-- 🔭 I’m currently working on **DGTFET Simulations & AI Projects**  
-- 🌱 I’m currently learning **Silvaco TCAD, AWS, and Automation Tools**  
+- 🔭 I’m currently working on **Double Gate Tunnel Field-Effect Transistor Simulations & Artificial intelligence Projects**  
 - 👯 I’m looking to collaborate on **Tech and Innovation Projects**  
-- 💬 Ask me about **Python, MATLAB, CMOS, NGSpice, IoT**  
 - 📫 How to reach me **kanchansrivastava109@gmail.com**  
-- 📄 Know more about me from my [Resume](https://drive.google.com/file/d/1EZH5uabh4l0c3kIqVbVdFXTTHqGCoY28/view)
+- 📄 Know more about me from my [Resume](https://drive.google.com/file/d/14f7i1qbC5upwIBKHCt9I08T132v348Bf/view?usp=sharing)
 
 
 ## 🛠️ Languages and Tools:
