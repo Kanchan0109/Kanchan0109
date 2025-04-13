@@ -3,12 +3,15 @@
 
 <img align="right" alt="Coding Girl" width="300" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
-- **🔭 I’m currently working on**
+
+- 🔭 I’m currently working on:
   **Double Gate Tunnel Field-Effect Transistor Simulations & Artificial intelligence Projects**  
  
-- 📫 How to reach me **kanchansrivastava109@gmail.com**
+- 📫 How to reach me: **kanchansrivastava109@gmail.com**
 
-- 📄 Know more about me from my [Resume](https://drive.google.com/file/d/14f7i1qbC5upwIBKHCt9I08T132v348Bf/view?usp=sharing)
+- 📄 Know more about me from my: [Resume](https://drive.google.com/file/d/14f7i1qbC5upwIBKHCt9I08T132v348Bf/view?usp=sharing)
+
+
 
 
 ## 🛠️ Languages and Tools:
