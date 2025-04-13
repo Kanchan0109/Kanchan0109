@@ -3,10 +3,14 @@
 
 <img align="right" alt="Coding Girl" width="300" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
-- 🔭 I’m currently working on **Double Gate Tunnel Field-Effect Transistor Simulations & Artificial intelligence Projects**  
-- 👯 I’m looking to collaborate on **Tech and Innovation Projects**  
-- 📫 How to reach me **kanchansrivastava109@gmail.com**  
-- 📄 Know more about me from my [Resume](https://drive.google.com/file/d/14f7i1qbC5upwIBKHCt9I08T132v348Bf/view?usp=sharing)
+- 🔭 I’m currently working on
+- **Double Gate Tunnel Field-Effect Transistor Simulations & Artificial intelligence Projects**  
+- 👯 I’m looking to collaborate on
+- **Tech and Innovation Projects**  
+- 📫 How to reach me
+- **kanchansrivastava109@gmail.com**  
+- 📄 Know more about me from my
+- [Resume](https://drive.google.com/file/d/14f7i1qbC5upwIBKHCt9I08T132v348Bf/view?usp=sharing)
 
 
 ## 🛠️ Languages and Tools:
@@ -40,7 +44,7 @@
 - **Electronics & IoT:**  
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
   ![Proteus](https://img.shields.io/badge/Proteus-blue?style=for-the-badge)
-  ![Multisim](https://img.shields.io/badge/NI%20Multisim-yellow?style=for-the-badge)
+ ![Keil uVision](https://img.shields.io/badge/Keil%20uVision-blue?style=for-the-badge)
 
 - **Development Tools:**  
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
