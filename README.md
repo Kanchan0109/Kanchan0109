@@ -20,6 +20,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
+## 🛠️ Skills
+
+- **Programming Languages:**  
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+
+- **Libraries & Frameworks:**  
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+- **VLSI & Simulation Tools:**  
+  ![NGSpice](https://img.shields.io/badge/NGSpice-007ACC?style=for-the-badge)
+  ![Silvaco](https://img.shields.io/badge/Silvaco%20TCAD-red?style=for-the-badge)
+  ![MATLAB](https://img.shields.io/badge/MATLAB-e37926?style=for-the-badge&logo=mathworks&logoColor=white)
+
+- **Electronics & IoT:**  
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+  ![Proteus](https://img.shields.io/badge/Proteus-blue?style=for-the-badge)
+  ![Multisim](https://img.shields.io/badge/NI%20Multisim-yellow?style=for-the-badge)
+
+- **Development Tools:**  
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
 
 ## 🏆 Projects Showcase:
 
