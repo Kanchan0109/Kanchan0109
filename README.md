@@ -16,11 +16,10 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Ngspice_logo.png" alt="Ngspice" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Ngspice_logo.jpg" alt="Ngspice" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 ## 🛠️ Skills
@@ -57,19 +56,15 @@
 - 🚗 [Alcohol Sense Engine Lock System with GPS](https://github.com/Kanchan0109/Alcohol-Sense-Engine-Lock-System-with-GPS-Functionality)  
 - 💤 [Driver Drowsiness Detection using OpenCV](https://github.com/Kanchan0109/OpenCV-Image-Processing-Driver-Drowsiness-Detection)
 
-> “Striving to bridge hardware and software with innovation, learning, and creativity.” 🌟
 
 
 ## 📬 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/kanchan-lata-srivastava/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
-<a href="mailto:kanchansrivastava109@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40" /></a>
-<a href="https://sites.google.com/view/kanchansrivastava109/home" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="40" width="40" /></a>
-</p>
-
-
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Kanchan0109&theme=react-dark" alt="activity graph" />
+<a href="https://www.linkedin.com/in/kanchan-lata-srivastava/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
+  
+<a href="mailto:kanchansrivastava109@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40" /></a>
+
+<a href="https://sites.google.com/view/kanchansrivastava109/home" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="40" width="40" /></a>
 </p>
 
 
