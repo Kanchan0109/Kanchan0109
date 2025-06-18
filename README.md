@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kanchan Lata Srivastva</h1>
-<h3 align="center">Final-year ECE student | AI & VLSI Enthusiast | Intern @ NIELIT</h3>
+<h3 align="center">Technophile | AI & VLSI Enthusiast | Intern @ NIELIT</h3>
 
 <img align="right" alt="Coding Girl" width="300" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 
 🚀 **I'm Currently Working On**
 
-- **Final Year Project**: Building a Advanced Fingerprint Biometric Voting Machine using Internet of things(IoT).
+- **Final Year Project**: NextGen Voting Machine with Triple Layer Security.
 - **Device Simulation**: Analysis of Tunneling Field Effect Transistor(TFET) for enhanced performance in Analog and RF domains. 
 - 📄 Know more about me from my: [Resume](https://drive.google.com/file/d/14f7i1qbC5upwIBKHCt9I08T132v348Bf/view?usp=sharing)
 
